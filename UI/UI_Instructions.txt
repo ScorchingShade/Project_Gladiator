@@ -1,0 +1,1 @@
+Add entire project files with Separated resources in Resource folder
